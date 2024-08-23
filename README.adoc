@@ -1,0 +1,7 @@
+# Sockets in C
+
+[source,shell]
+----
+cd client
+make client
+---
